@@ -38,8 +38,4 @@ preventing Sector Overexposure and correlated volatility of the tickers.
 
 Lastly, this project is a brainchild of two very bored almost-engineers, late nights, lethal amounts of caffeine, and the sheer will
 do tackle on a real world problem. This README file will be updated in a better and a more structured manner as we proceed further down 
-the road. Godspeed!<br><br>
-
-**This is a test merge using branches**
-
-**Successfully created testing-1 branch**
+the road. Godspeed!<br>
